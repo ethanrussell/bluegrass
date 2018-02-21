@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset=utf-8 />
+	<title>Web Page Template</title>
+	<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css" />
+	<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			background: #f5f5f5;
+			font-family: "Noto Sans", sans-serif;
+			color: #3d3d3d;
+		}
+
+		section {
+			width: 960px;
+		 	width: 80%;
+			margin: 20px 10px auto; /*I didn't like the left margin so I decresed it*/
+		}
+
+		h1 {
+			font-family: Lora, serif;
+			letter-spacing: .04em;
+		}
+
+		h2 {
+			font-family: Lora, serif;
+			letter-spacing: .04em;
+		}
+
+		p {
+			font-size: 1em;
+			line-height: 1.5em;
+		}
+
+		a {
+			color: #005daa;
+			font-weight: bold;
+			text-decoration: none;
+		}
+
+		a:hover {
+			text-decoration: underline;
+		}
+
+		ul {
+			padding-left: 20px;
+		}
+
+		li {
+			margin: 10px 0
+		}
+
+		#map {
+			width: 100%;
+			margin: 10px auto;
+			border: 2px solid #d3d3d3; /*border was kept because I liked it*/
+		}
+
+		/* add custom style class here */
+		.max-width-img {<img src="Kentucky_central_waterways_1200px.png" alt="Map of Kentucky Waterways" class="max-width-img">
+			width:100%;
+		}
+	</style>
+</head>
+
+<body>
+	<section>
+
+		<!-- This is an HTML comment. Find the comments below and follow the instructions. -->
+
+		<h1>Waterways of Kentucky</h1>
+
+		<div id='map'>
+				<img src="Kentucky_central_waterways_1200px.png" alt="Map of Kentucky Waterways">
+				<br> <!-- line break tag -->
+				<a href="Kentucky_central_waterways_8000px.png">Link to high resolution map</a>
+		</div>
+
+		<!-- Add you information below -->
+		<h2>Authored by: Ethan Russell</h2>
+		<p>This map combines county boundries, waterbodies and streams in the central part of the state of Kentucky using the CRS reference of EPSG: 3089. Country boundries are shown in light grey. This map was made using data from the National Atlas of the United States and the U.S. Geological Survey. The data sources were compiled from 2006 Census Bureau TIGER/Line files, 2010 Census Bureau TIGER/Line files, and the National Hydrography Dataset. The software used was QGIS version 2.18.16.</p>
+
+		<ul>
+			<li>See my projects on GitHub: <a href="https://github.com/ethanrussell">Ethan Russell Mapping</a> </li>
+			<li>Follow me on Twitter, Instagram, etc.: <a href="https://twitter.com/ethanr456">@EthanR456</a> </li>
+		</ul>
+	</section>
+
+</body>
+
+</html>
