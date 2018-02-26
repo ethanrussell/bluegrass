@@ -25,10 +25,10 @@
   <mapcanvas>
     <units>feet</units>
     <extent>
-      <xmin>5284192.77393648494035006</xmin>
-      <ymin>3701182.03539665183052421</ymin>
-      <xmax>5303071.31325724255293608</xmax>
-      <ymax>3721427.88950938312336802</ymax>
+      <xmin>4689518.78533261269330978</xmin>
+      <ymin>3063437.63084561238065362</ymin>
+      <xmax>5897745.30186111479997635</xmax>
+      <ymax>4359172.29406042210757732</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>

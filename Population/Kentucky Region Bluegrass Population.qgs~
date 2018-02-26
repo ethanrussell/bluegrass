@@ -25,10 +25,10 @@
   <mapcanvas>
     <units>feet</units>
     <extent>
-      <xmin>5284192.77393648494035006</xmin>
-      <ymin>3701182.03539665183052421</ymin>
-      <xmax>5303071.31325724255293608</xmax>
-      <ymax>3721427.88950938312336802</ymax>
+      <xmin>4689518.78533261269330978</xmin>
+      <ymin>3063437.63084561238065362</ymin>
+      <xmax>5897745.30186111479997635</xmax>
+      <ymax>4359172.29406042210757732</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -217,7 +217,7 @@
       </customproperties>
     </Composition>
   </Composer>
-  <Composer title="Kentucky Population Density" visible="1">
+  <Composer title="Kentucky Population Density" visible="0">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{18094683-0dbe-4644-b4b8-9656583db961}" alignmentSnap="1" printResolution="300" paperWidth="2286" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="1143" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
