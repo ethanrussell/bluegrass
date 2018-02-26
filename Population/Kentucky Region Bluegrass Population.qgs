@@ -217,7 +217,7 @@
       </customproperties>
     </Composition>
   </Composer>
-  <Composer title="Kentucky Population Density" visible="1">
+  <Composer title="Kentucky Population Density" visible="0">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{18094683-0dbe-4644-b4b8-9656583db961}" alignmentSnap="1" printResolution="300" paperWidth="2286" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="1143" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -3287,7 +3287,13 @@ def my_form_open(dialog, layer, feature):
           <customproperties/>
         </ComposerItem>
       </ComposerMap>
-      <customproperties/>
+      <customproperties>
+        <property key="imageCropMarginBottom" value="0"/>
+        <property key="imageCropMarginLeft" value="0"/>
+        <property key="imageCropMarginRight" value="0"/>
+        <property key="imageCropMarginTop" value="0"/>
+        <property key="imageCropToContents" value="false"/>
+      </customproperties>
     </Composition>
   </Composer>
   <projectlayers>
