@@ -24,10 +24,10 @@
   <mapcanvas>
     <units>feet</units>
     <extent>
-      <xmin>3729580.59843304939568043</xmin>
-      <ymin>3312459.32361105410382152</ymin>
-      <xmax>6059992.89131820201873779</xmax>
-      <ymax>4318667.83609596453607082</ymax>
+      <xmin>3369463.60113107971847057</xmin>
+      <ymin>3250877.82268135901540518</ymin>
+      <xmax>8030288.1869013849645853</xmax>
+      <ymax>5263294.84765117894858122</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -82,7 +82,7 @@
       </filegroup>
     </legendlayer>
   </legend>
-  <Composer title="kentucky_springs" visible="1">
+  <Composer title="kentucky_springs" visible="0">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{4a32d153-c793-455e-8c82-b907bb7c0a90}" alignmentSnap="1" printResolution="300" paperWidth="762" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="381" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
