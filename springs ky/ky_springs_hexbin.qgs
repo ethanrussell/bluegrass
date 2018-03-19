@@ -24,10 +24,10 @@
   <mapcanvas>
     <units>feet</units>
     <extent>
-      <xmin>3369463.60113107971847057</xmin>
-      <ymin>3250877.82268135901540518</ymin>
-      <xmax>8030288.1869013849645853</xmax>
-      <ymax>5263294.84765117894858122</ymax>
+      <xmin>3386020.70445530861616135</xmin>
+      <ymin>3242599.27101924456655979</ymin>
+      <xmax>8046845.29022561386227608</xmax>
+      <ymax>5255016.29598906449973583</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -105,7 +105,7 @@
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
         <strokeColor alpha="255" red="255" blue="255" green="255"/>
         <textColor alpha="255" red="255" blue="255" green="255"/>
-        <ComposerItem pagey="346.08" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="235.25" y="346.08" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="513.753" outlineWidth="0.3" excludeFromExports="0" uuid="{6a1ed617-4282-4ea2-8071-5be943000fa3}" height="18.469" itemRotation="0" frame="false" pagex="235.25">
+        <ComposerItem pagey="346.08" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="235.25" y="346.08" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="513.753" outlineWidth="0.3" excludeFromExports="0" uuid="{6a1ed617-4282-4ea2-8071-5be943000fa3}" height="18.469" itemRotation="0" frame="false" pagex="235.25">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -137,7 +137,7 @@
             </customproperties>
           </layer-tree-layer>
         </layer-tree-group>
-        <ComposerItem pagey="184.617" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="38.1769" y="184.617" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="97" outlineWidth="0.3" excludeFromExports="0" uuid="{0b6a3d48-fbed-4ee8-ab05-28408b718167}" height="71.1" itemRotation="0" frame="false" pagex="38.1769">
+        <ComposerItem pagey="184.617" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="38.1769" y="184.617" visibility="1" zValue="4" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="97" outlineWidth="0.3" excludeFromExports="0" uuid="{0b6a3d48-fbed-4ee8-ab05-28408b718167}" height="71.1" itemRotation="0" frame="false" pagex="38.1769">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -146,7 +146,7 @@
       <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Springs per 5 Mile Hexagonal grid in Kentucky&#xa;Map prepared by Ethan Russell for Geology 409&#xa;March, 2018 Using QGIS 2.18.16 on Windows 10&#xa;Data acquired from Kentucky Divion of Water, groundwater springs layer. Locations of all the inventoried springs in the commonwealth of kentucky: ftp://data.gis.eppc.ky.gov/shapefiles/dow_groundwater_springs.zip&#xa;Data aquired from the U.S. Census Bureau Geography Divion, TIGER/Line Shapefile&#xa;Data aquired from the U.S. Census Dureau Cartographic Boundary Shapefiles, 1:500k Scale State and County Polygons" htmlState="0" halign="4">
         <LabelFont description="Garamond,24,-1,5,50,0,0,0,0,0" style=""/>
         <FontColor red="255" blue="255" green="255"/>
-        <ComposerItem pagey="58.1787" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="27.5583" y="58.1787" visibility="1" zValue="4" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="282.473" outlineWidth="0.3" excludeFromExports="0" uuid="{e96a46c5-e678-4cfd-a2f4-ec3084af7621}" height="121.604" itemRotation="0" frame="false" pagex="27.5583">
+        <ComposerItem pagey="58.1787" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="27.5583" y="58.1787" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="282.473" outlineWidth="0.3" excludeFromExports="0" uuid="{e96a46c5-e678-4cfd-a2f4-ec3084af7621}" height="121.604" itemRotation="0" frame="false" pagex="27.5583">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -214,7 +214,7 @@
           <annotationFontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
         </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="3.55271e-15" page="1" id="" lastValidViewScaleFactor="1.49985" positionMode="0" positionLock="true" x="-7.10543e-15" y="3.55271e-15" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="762" outlineWidth="0.3" excludeFromExports="0" uuid="{4a32d153-c793-455e-8c82-b907bb7c0a90}" height="381" itemRotation="0" frame="false" pagex="-7.10543e-15">
+        <ComposerItem pagey="0" page="1" id="" lastValidViewScaleFactor="0.450012" positionMode="0" positionLock="true" x="0" y="0" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="762" outlineWidth="0.3" excludeFromExports="0" uuid="{4a32d153-c793-455e-8c82-b907bb7c0a90}" height="381" itemRotation="0" frame="false" pagex="0">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="38" blue="38" green="38"/>
           <customproperties/>
@@ -466,6 +466,7 @@
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -1292,6 +1293,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -1394,9 +1396,9 @@ def my_form_open(dialog, layer, feature):
     </Paths>
     <WMSServiceTitle type="QString"></WMSServiceTitle>
     <WFSLayers type="QStringList"/>
+    <WMSRestrictedLayers type="QStringList"/>
     <WMSContactMail type="QString"></WMSContactMail>
     <WMSRestrictedComposers type="QStringList"/>
-    <WMSRestrictedLayers type="QStringList"/>
     <PositionPrecision>
       <DecimalPlaces type="int">2</DecimalPlaces>
       <Automatic type="bool">true</Automatic>
