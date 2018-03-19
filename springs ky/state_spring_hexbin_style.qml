@@ -26,7 +26,7 @@
           <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
           <prop k="offset_unit" v="MM"/>
           <prop k="outline_color" v="0,0,0,255"/>
-          <prop k="outline_style" v="solid"/>
+          <prop k="outline_style" v="no"/>
           <prop k="outline_width" v="0.26"/>
           <prop k="outline_width_unit" v="MM"/>
           <prop k="style" v="solid"/>
@@ -41,7 +41,7 @@
           <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
           <prop k="offset_unit" v="MM"/>
           <prop k="outline_color" v="0,0,0,255"/>
-          <prop k="outline_style" v="solid"/>
+          <prop k="outline_style" v="no"/>
           <prop k="outline_width" v="0.26"/>
           <prop k="outline_width_unit" v="MM"/>
           <prop k="style" v="solid"/>
@@ -56,7 +56,7 @@
           <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
           <prop k="offset_unit" v="MM"/>
           <prop k="outline_color" v="0,0,0,255"/>
-          <prop k="outline_style" v="solid"/>
+          <prop k="outline_style" v="no"/>
           <prop k="outline_width" v="0.26"/>
           <prop k="outline_width_unit" v="MM"/>
           <prop k="style" v="solid"/>
@@ -71,7 +71,7 @@
           <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
           <prop k="offset_unit" v="MM"/>
           <prop k="outline_color" v="0,0,0,255"/>
-          <prop k="outline_style" v="solid"/>
+          <prop k="outline_style" v="no"/>
           <prop k="outline_width" v="0.26"/>
           <prop k="outline_width_unit" v="MM"/>
           <prop k="style" v="solid"/>
@@ -86,7 +86,7 @@
           <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
           <prop k="offset_unit" v="MM"/>
           <prop k="outline_color" v="0,0,0,255"/>
-          <prop k="outline_style" v="solid"/>
+          <prop k="outline_style" v="no"/>
           <prop k="outline_width" v="0.26"/>
           <prop k="outline_width_unit" v="MM"/>
           <prop k="style" v="solid"/>
@@ -103,7 +103,7 @@
           <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
           <prop k="offset_unit" v="MM"/>
           <prop k="outline_color" v="0,0,0,255"/>
-          <prop k="outline_style" v="solid"/>
+          <prop k="outline_style" v="no"/>
           <prop k="outline_width" v="0.26"/>
           <prop k="outline_width_unit" v="MM"/>
           <prop k="style" v="solid"/>
@@ -268,7 +268,7 @@
   </customproperties>
   <blendMode>0</blendMode>
   <featureBlendMode>0</featureBlendMode>
-  <layerTransparency>0</layerTransparency>
+  <layerTransparency>30</layerTransparency>
   <displayfield>id</displayfield>
   <label>0</label>
   <labelattributes>
@@ -319,7 +319,7 @@
     </symbol>
   </SingleCategoryDiagramRenderer>
   <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-  <annotationform></annotationform>
+  <annotationform>.</annotationform>
   <aliases>
     <alias field="id" index="0" name=""/>
     <alias field="count" index="1" name=""/>
@@ -334,10 +334,10 @@
       <column width="-1" hidden="1" type="actions"/>
     </columns>
   </attributetableconfig>
-  <editform></editform>
+  <editform>.</editform>
   <editforminit/>
   <editforminitcodesource>0</editforminitcodesource>
-  <editforminitfilepath></editforminitfilepath>
+  <editforminitfilepath>.</editforminitfilepath>
   <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
