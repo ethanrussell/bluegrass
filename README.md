@@ -4,7 +4,7 @@ This map combines waterbodies, streams, and urban areas in the state of Kentucky
 #Ethan Russell, Kentucky Bluegrass Population Density
 This map shows population density per square mile in the Bluegrass Reigon of Kentucky. Density is shown in the legend with a population density of zero being displyed in grey. Data was acquired from the U.S. Department of Commerce, U.S. Census Bureau, Geography Division, TIGER/Line Shapefile.
 #Ethan Russell, Kentucky Springs Hexbin
-This map shows Springs per 2.5 and 5 Mile Hexagonal grid in Kentucky in the bluegrass region and in the state. The number
+This map shows Springs per 2.5 and 5 Mile Hexagonal grid in Kentucky in the bluegrass region and in the state. The CRS reference of EPSG: 3089 was used to project the map. The number of springs is shown in the legend with the corresponding color.
 Map prepared by Ethan Russell for Geology 409
 March, 2018 Using QGIS 2.18.16 on Windows 10
 Data acquired from Kentucky Divion of Water, groundwater springs layer. Locations of all the inventoried springs in the Commonwealth of Kentucky: ftp://data.gis.eppc.ky.gov/shapefiles/dow_groundwater_springs.zip
