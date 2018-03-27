@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset=utf-8 />
+	<title>Ethan Russell Maps</title>
+	<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css" />
+	<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			background: #f5f5f5;
+			font-family: "Noto Sans", sans-serif;
+			color: #3d3d3d;
+		}
+
+		section {
+			width: 960px;
+		 	width: 80%;
+			margin: 20px 10px auto; /*I didn't like the left margin so I decresed it*/
+		}
+
+		h1 {
+			font-family: Lora, serif;
+			letter-spacing: .04em;
+		}
+
+		h2 {
+			font-family: Lora, serif;
+			letter-spacing: .04em;
+		}
+
+		p {
+			font-size: 1em;
+			line-height: 1.5em;
+		}
+
+		a {
+			color: #005daa;
+			font-weight: bold;
+			text-decoration: none;
+		}
+
+		a:hover {
+			text-decoration: underline;
+		}
+
+		ul {
+			padding-left: 20px;
+		}
+
+		li {
+			margin: 10px 0
+		}
+
+		#map {
+			width: 100%;
+			margin: 10px auto;
+			border: 2px solid #d3d3d3;
+		}
+/*Style from lab readme*/
+		.max-image-width {
+					width:100%;
+				}
+
+
+	</style>
+</head>
+
+<body>
+	<section>
+
+		<!-- This is an HTML comment. Find the comments below and follow the instructions. -->
+
+		<h1>Kentucky Springs</h1>
+
+		<div id='map'>
+				<img src="springs ky/kentucky_springs_hexbin_1200px.png" alt="Kentucky Springs Hexbin"> <class="max-image-width">
+				<br> <!-- line break tag -->
+				<a href="springs ky/kentucky_springs_hexbin_8000px.png">Link to high resolution map</a>
+		</div>
+
+		<h1>Kentucky Bluegrass Region Springs</h1>
+
+		<div id='map'>
+				<img src="springs ky/kentucky_bluegrass_springs_hexbin_1200px.png" alt="Kentucky Bluegrass Region Springs Hexbin"> <class="max-image-width">
+				<br> <!-- line break tag -->
+				<a href="springs ky/kentucky_bluegrass_springs_hexbin_8000px.png">Link to high resolution map</a>
+		</div>
+
+		<!-- Add you information below -->
+		<h2>Authored by: Ethan Russell</h2>
+		<p>This map shows Springs per 2.5 and 5 Mile Hexagonal grid in Kentucky in the bluegrass region and in the state.
+			The CRS reference of EPSG: 3089 was used to project the map. The number of springs is shown in the legend with the corresponding color.
+Map prepared by Ethan Russell for Geology 409
+March, 2018 Using QGIS 2.18.16 on Windows 10
+Data acquired from Kentucky Divion of Water, groundwater springs layer. Locations of all the inventoried springs in the Commonwealth of Kentucky: ftp://data.gis.eppc.ky.gov/shapefiles/dow_groundwater_springs.zip
+Data aquired from the U.S. Census Bureau Geography Divion, TIGER/Line Shapefile
+Data aquired from the U.S. Census Dureau Cartographic Boundary Shapefiles, 1:500k Scale State and County Polygons.</p>
+
+		<ul>
+			<li>See my projects on GitHub: <a href="https://github.com/ethanrussell">Ethan Russell Mapping</a> </li>
+			<li>Follow me on Twitter, Instagram, etc.: <a href="https://twitter.com/ethanr456">@EthanR456</a> </li>
+
+		</ul>
+	</section>
+
+</body>
+
+</html>
