@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>canopy_sally_brown_2016.tif</Title>
+      <Title>sbc_canopy_2016.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
       <BoundingBox minx="-84.69966071655996" miny="37.79525006568890" maxx="-84.66939686317741" maxy="37.83397262608137"/>
