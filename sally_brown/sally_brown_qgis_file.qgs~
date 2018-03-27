@@ -5,28 +5,40 @@
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="aoi20180326213222562" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/Download Data/sally_brown_crutcher_snp/aoi.geojson" name="aoi">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="aoi20180326213222562" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/Download Data/sally_brown_crutcher_snp/aoi.geojson" name="aoi">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="trails20180326214054825" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/Download Data/sally_brown_crutcher_snp/trails.geojson" name="trails">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="trails20180326214054825" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/Download Data/sally_brown_crutcher_snp/trails.geojson" name="trails">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="Ky_DEM_KYAPED_5FT220180326213229948" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/Download Data/sally_brown_crutcher_snp/Ky_DEM_KYAPED_5FT2.tif" name="Ky_DEM_KYAPED_5FT2">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="canopy_sally_brown_201620180326223128800" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/bluegrass/sally_brown/canopy_sally_brown_2016.tif" name="canopy_sally_brown_2016">
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="sbc_NAIP_201620180327174420928" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/bluegrass/sally_brown/sbc_NAIP_2016.tif" name="sbc_NAIP_2016">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="sbc_hillshade_270_5020180327174954752" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/bluegrass/sally_brown/sbc_hillshade_270_50.tif" name="sbc_hillshade_270_50">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="sbc_canopy_201620180327180012509" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/bluegrass/sally_brown/sbc_canopy_2016.tif" name="sbc_canopy_2016">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="NDVI_201620180326221150820" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/Download Data/NDVI_2016.tif" name="NDVI_2016">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="Ky_NAIP_2016_2FT220180326213834851" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/Download Data/sally_brown_crutcher_snp/Ky_NAIP_2016_2FT2.jp2" name="Ky_NAIP_2016_2FT2">
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="Ky_NAIP_2016_2FT220180327173938224" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/Download Data/sally_brown_crutcher_snp/Ky_NAIP_2016_2FT2.jp2" name="Ky_NAIP_2016_2FT2">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="sally_brown_crutcher_hillshade_270_5020180326214813347" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/Download Data/sally_brown_crutcher_hillshade_270_50.tif" name="sally_brown_crutcher_hillshade_270_50">
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="sally_brown_crutcher_hillshade_270_5020180326214813347" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/Download Data/sally_brown_crutcher_hillshade_270_50.tif" name="sally_brown_crutcher_hillshade_270_50">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Checked" id="natgeo20180326212412091" source="type=xyz&amp;url=http://server.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D" name="natgeo">
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="canopy_sally_brown_201620180326223128800" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/bluegrass/sally_brown/canopy_sally_brown_2016.tif" name="canopy_sally_brown_2016">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Unchecked" id="natgeo20180326212412091" source="crs=EPSG:3857&amp;format=&amp;type=xyz&amp;url=http://server.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D" name="natgeo">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="Ky_NAIP_2016_2FT220180326213834851" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/Download Data/sally_brown_crutcher_snp/Ky_NAIP_2016_2FT2.jp2" name="Ky_NAIP_2016_2FT2">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="sally_brown_crutcher_hillshade_300_40_defalt20180326214914025" source="C:/Users/Ethan Russell/Desktop/Ethan.RussellGIS/Download Data/sally_brown_crutcher_hillshade_300_40_defalt.tif" name="sally_brown_crutcher_hillshade_300_40_defalt">
@@ -40,10 +52,10 @@
   <mapcanvas>
     <units>feet</units>
     <extent>
-      <xmin>5224992.90325805172324181</xmin>
-      <ymin>3815648.2398694371804595</ymin>
-      <xmax>5234007.15325823053717613</xmax>
-      <ymax>3830348.2398694371804595</ymax>
+      <xmin>5224598.64894244074821472</xmin>
+      <ymin>3816896.24270641384646297</ymin>
+      <xmax>5233612.89894244074821472</xmax>
+      <ymax>3831596.24270644364878535</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -61,22 +73,29 @@
     </destinationsrs>
     <rendermaptile>0</rendermaptile>
     <layer_coordinate_transform_info>
-      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="natgeo20180326212412091"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="aoi20180326213222562"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="sbc_canopy_201620180327180012509"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="sbc_hillshade_270_5020180327173720533"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="Kentucky_10K_NAIP20180326213656868"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="Ky_DEM_KYAPED_5FT220180326213229948"/>
       <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="Ky_NAIP_2016_2FT220180326213834851"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="sbc_hillshade_270_5020180327174549851"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="sally_brown_crutcher_hillshade_120_5520180326215046364"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="trails20180326214054825"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="NDVI_201620180326221150820"/>
       <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="KYAPED_Available_DEMs_5FT_Tile_Index20180326212147982"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="sally_brown_crutcher_hillshade_300_40_defalt20180326214914025"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="sbc_canopy_201620180327175930088"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="sally_brown_crutcher_hillshade_270_5020180326214813347"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="sbc_NAIP_201620180327174420928"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="USER:100001" srcDatumTransform="-1" destDatumTransform="-1" layerid="Ky_NAIP_2016_2FT220180327173938224"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="Ky_NLCD_2011_30M120180326213231155"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="canopy_sally_brown_201620180326223128800"/>
       <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="Ky_DEM_KYAPED_5FT20180326212858145"/>
       <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="Kentucky_10K_NAIP20180326212103373"/>
-      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="sally_brown_crutcher_hillshade_120_5520180326215046364"/>
-      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="Ky_NLCD_2011_30M120180326213231155"/>
-      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="aoi20180326213222562"/>
-      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="canopy_sally_brown_201620180326223128800"/>
-      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="Kentucky_10K_NAIP20180326213656868"/>
-      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="sally_brown_crutcher_hillshade_270_5020180326214813347"/>
-      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="sally_brown_crutcher_hillshade_300_40_defalt20180326214914025"/>
-      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="trails20180326214054825"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="sbc_hillshade_270_5020180327174954752"/>
+      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="natgeo20180326212412091"/>
       <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="Ky_NAIP_2014_1M20180326212859243"/>
-      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="" srcDatumTransform="-1" destDatumTransform="-1" layerid="Ky_DEM_KYAPED_5FT220180326213229948"/>
-      <layer_coordinate_transform destAuthId="EPSG:3089" srcAuthId="EPSG:3089" srcDatumTransform="-1" destDatumTransform="-1" layerid="NDVI_201620180326221150820"/>
     </layer_coordinate_transform_info>
   </mapcanvas>
   <layer-tree-canvas>
@@ -91,17 +110,21 @@
       <item>sally_brown_crutcher_hillshade_120_5520180326215046364</item>
       <item>NDVI_201620180326221150820</item>
       <item>canopy_sally_brown_201620180326223128800</item>
+      <item>Ky_NAIP_2016_2FT220180327173938224</item>
+      <item>sbc_NAIP_201620180327174420928</item>
+      <item>sbc_hillshade_270_5020180327174954752</item>
+      <item>sbc_canopy_201620180327180012509</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="aoi" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="aoi" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="aoi20180326213222562" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="aoi20180326213222562" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="trails" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="trails" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="trails20180326214054825" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="trails20180326214054825" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Ky_DEM_KYAPED_5FT2" showFeatureCount="0">
@@ -109,9 +132,19 @@
         <legendlayerfile isInOverview="0" layerid="Ky_DEM_KYAPED_5FT220180326213229948" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="canopy_sally_brown_2016" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="sbc_NAIP_2016" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="canopy_sally_brown_201620180326223128800" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="sbc_NAIP_201620180327174420928" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="sbc_hillshade_270_50" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="sbc_hillshade_270_5020180327174954752" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="sbc_canopy_2016" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="sbc_canopy_201620180327180012509" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="NDVI_2016" showFeatureCount="0">
@@ -119,19 +152,29 @@
         <legendlayerfile isInOverview="0" layerid="NDVI_201620180326221150820" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Ky_NAIP_2016_2FT2" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Ky_NAIP_2016_2FT2" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Ky_NAIP_2016_2FT220180326213834851" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="Ky_NAIP_2016_2FT220180327173938224" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="sally_brown_crutcher_hillshade_270_50" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="sally_brown_crutcher_hillshade_270_50" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="sally_brown_crutcher_hillshade_270_5020180326214813347" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="sally_brown_crutcher_hillshade_270_5020180326214813347" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="natgeo" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="canopy_sally_brown_2016" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="natgeo20180326212412091" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="canopy_sally_brown_201620180326223128800" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="natgeo" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="natgeo20180326212412091" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Ky_NAIP_2016_2FT2" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Ky_NAIP_2016_2FT220180326213834851" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="sally_brown_crutcher_hillshade_300_40_defalt" showFeatureCount="0">
@@ -164,8 +207,8 @@
           <proj4>+proj=lcc +lat_1=37.08333333333334 +lat_2=38.66666666666666 +lat_0=36.33333333333334 +lon_0=-85.75 +x_0=1500000 +y_0=999999.9999999999 +datum=NAD83 +units=us-ft +no_defs</proj4>
           <srsid>100001</srsid>
           <srid>0</srid>
-          <authid></authid>
-          <description></description>
+          <authid>USER:100001</authid>
+          <description> * Generated CRS (+proj=lcc +lat_1=37.08333333333334 +lat_2=38.66666666666666 +lat_0=36.33333333333334 +lon_0=-85.75 +x_0=1500000 +y_0=999999.9999999999 +datum=NAD83 +units=us-ft +no_defs)</description>
           <projectionacronym>lcc</projectionacronym>
           <ellipsoidacronym></ellipsoidacronym>
           <geographicflag>false</geographicflag>
@@ -214,8 +257,8 @@
           <proj4>+proj=lcc +lat_1=37.08333333333334 +lat_2=38.66666666666666 +lat_0=36.33333333333334 +lon_0=-85.75 +x_0=1500000 +y_0=999999.9999999999 +datum=NAD83 +units=us-ft +no_defs</proj4>
           <srsid>100001</srsid>
           <srid>0</srid>
-          <authid></authid>
-          <description></description>
+          <authid>USER:100001</authid>
+          <description> * Generated CRS (+proj=lcc +lat_1=37.08333333333334 +lat_2=38.66666666666666 +lat_0=36.33333333333334 +lon_0=-85.75 +x_0=1500000 +y_0=999999.9999999999 +datum=NAD83 +units=us-ft +no_defs)</description>
           <projectionacronym>lcc</projectionacronym>
           <ellipsoidacronym></ellipsoidacronym>
           <geographicflag>false</geographicflag>
@@ -244,6 +287,55 @@
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>10</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>5224723.11623216234147549</xmin>
+        <ymin>3814946.68477465491741896</ymin>
+        <xmax>5233307.11623216234147549</xmax>
+        <ymax>3828946.68477465491741896</ymax>
+      </extent>
+      <id>Ky_NAIP_2016_2FT220180327173938224</id>
+      <datasource>../../Download Data/sally_brown_crutcher_snp/Ky_NAIP_2016_2FT2.jp2</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Ky_NAIP_2016_2FT2</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=lcc +lat_1=37.08333333333334 +lat_2=38.66666666666666 +lat_0=36.33333333333334 +lon_0=-85.75 +x_0=1500000 +y_0=999999.9999999999 +datum=NAD83 +units=us-ft +no_defs</proj4>
+          <srsid>100001</srsid>
+          <srid>0</srid>
+          <authid>USER:100001</authid>
+          <description> * Generated CRS (+proj=lcc +lat_1=37.08333333333334 +lat_2=38.66666666666666 +lat_0=36.33333333333334 +lon_0=-85.75 +x_0=1500000 +y_0=999999.9999999999 +datum=NAD83 +units=us-ft +no_defs)</description>
+          <projectionacronym>lcc</projectionacronym>
+          <ellipsoidacronym></ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" blueBand="3" greenBand="2" type="multibandcolor" redBand="1">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="20" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -286,12 +378,22 @@
           <rasterTransparency>
             <singleValuePixelList>
               <pixelListEntry min="-1" max="0.2" percentTransparent="100"/>
+              <pixelListEntry min="0.2" max="0.35" percentTransparent="90"/>
+              <pixelListEntry min="0.34" max="0.45" percentTransparent="80"/>
+              <pixelListEntry min="0.45" max="0.5" percentTransparent="70"/>
             </singleValuePixelList>
           </rasterTransparency>
           <rastershader>
             <colorrampshader colorRampType="INTERPOLATED" clip="0">
-              <item alpha="255" value="0.2" label="0.2" color="#00dc12"/>
-              <item alpha="255" value="0.733" label="0.733" color="#008e09"/>
+              <item alpha="255" value="0.2" label="0.2" color="#f7fcf5"/>
+              <item alpha="255" value="0.269" label="0.269" color="#e5f5e0"/>
+              <item alpha="255" value="0.339" label="0.339" color="#c7e9c0"/>
+              <item alpha="255" value="0.408" label="0.408" color="#a1d99b"/>
+              <item alpha="255" value="0.477" label="0.477" color="#74c476"/>
+              <item alpha="255" value="0.546" label="0.546" color="#41ab5d"/>
+              <item alpha="255" value="0.616" label="0.616" color="#238b45"/>
+              <item alpha="255" value="0.68" label="0.68" color="#006d2c"/>
+              <item alpha="255" value="0.733" label="0.733" color="#00441b"/>
             </colorrampshader>
           </rastershader>
         </rasterrenderer>
@@ -534,6 +636,7 @@
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -559,7 +662,7 @@
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="id" index="0" name=""/>
         <alias field="name" index="1" name=""/>
@@ -567,17 +670,17 @@
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="805255496">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns>
           <column width="-1" hidden="0" type="field" name="id"/>
           <column width="-1" hidden="0" type="field" name="name"/>
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
@@ -664,7 +767,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>20037508.34278924390673637</ymax>
       </extent>
       <id>natgeo20180326212412091</id>
-      <datasource>type=xyz&amp;url=http://server.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D</datasource>
+      <datasource>crs=EPSG:3857&amp;format=&amp;type=xyz&amp;url=http://server.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -720,8 +823,8 @@ def my_form_open(dialog, layer, feature):
           <proj4>+proj=lcc +lat_1=37.08333333333334 +lat_2=38.66666666666666 +lat_0=36.33333333333334 +lon_0=-85.75 +x_0=1500000 +y_0=999999.9999999999 +datum=NAD83 +units=us-ft +no_defs</proj4>
           <srsid>100001</srsid>
           <srid>0</srid>
-          <authid></authid>
-          <description></description>
+          <authid>USER:100001</authid>
+          <description> * Generated CRS (+proj=lcc +lat_1=37.08333333333334 +lat_2=38.66666666666666 +lat_0=36.33333333333334 +lon_0=-85.75 +x_0=1500000 +y_0=999999.9999999999 +datum=NAD83 +units=us-ft +no_defs)</description>
           <projectionacronym>lcc</projectionacronym>
           <ellipsoidacronym></ellipsoidacronym>
           <geographicflag>false</geographicflag>
@@ -770,8 +873,8 @@ def my_form_open(dialog, layer, feature):
           <proj4>+proj=lcc +lat_1=37.08333333333334 +lat_2=38.66666666666666 +lat_0=36.33333333333334 +lon_0=-85.75 +x_0=1500000 +y_0=999999.9999999999 +datum=NAD83 +units=us-ft +no_defs</proj4>
           <srsid>100001</srsid>
           <srid>0</srid>
-          <authid></authid>
-          <description></description>
+          <authid>USER:100001</authid>
+          <description> * Generated CRS (+proj=lcc +lat_1=37.08333333333334 +lat_2=38.66666666666666 +lat_0=36.33333333333334 +lon_0=-85.75 +x_0=1500000 +y_0=999999.9999999999 +datum=NAD83 +units=us-ft +no_defs)</description>
           <projectionacronym>lcc</projectionacronym>
           <ellipsoidacronym></ellipsoidacronym>
           <geographicflag>false</geographicflag>
@@ -792,8 +895,8 @@ def my_form_open(dialog, layer, feature):
         <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="0" type="singlebandgray" grayBand="1">
           <rasterTransparency/>
           <contrastEnhancement>
-            <minValue>33.4021</minValue>
-            <maxValue>235.599</maxValue>
+            <minValue>0</minValue>
+            <maxValue>255</maxValue>
             <algorithm>StretchToMinimumMaximum</algorithm>
           </contrastEnhancement>
         </rasterrenderer>
@@ -821,8 +924,8 @@ def my_form_open(dialog, layer, feature):
           <proj4>+proj=lcc +lat_1=37.08333333333334 +lat_2=38.66666666666666 +lat_0=36.33333333333334 +lon_0=-85.75 +x_0=1500000 +y_0=999999.9999999999 +datum=NAD83 +units=us-ft +no_defs</proj4>
           <srsid>100001</srsid>
           <srid>0</srid>
-          <authid></authid>
-          <description></description>
+          <authid>USER:100001</authid>
+          <description> * Generated CRS (+proj=lcc +lat_1=37.08333333333334 +lat_2=38.66666666666666 +lat_0=36.33333333333334 +lon_0=-85.75 +x_0=1500000 +y_0=999999.9999999999 +datum=NAD83 +units=us-ft +no_defs)</description>
           <projectionacronym>lcc</projectionacronym>
           <ellipsoidacronym></ellipsoidacronym>
           <geographicflag>false</geographicflag>
@@ -846,6 +949,150 @@ def my_form_open(dialog, layer, feature):
             <maxValue>237.40061036682127</maxValue>
             <algorithm>StretchToMinimumMaximum</algorithm>
           </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>5224723.11623216141015291</xmin>
+        <ymin>3814946.68444122327491641</ymin>
+        <xmax>5233307.11623217258602381</xmax>
+        <ymax>3828946.68444124050438404</ymax>
+      </extent>
+      <id>sbc_NAIP_201620180327174420928</id>
+      <datasource>./sbc_NAIP_2016.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>sbc_NAIP_2016</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=lcc +lat_1=37.08333333333334 +lat_2=38.66666666666666 +lat_0=36.33333333333334 +lon_0=-85.75 +x_0=1500000 +y_0=999999.9998983998 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=us-ft +no_defs</proj4>
+          <srsid>1052</srsid>
+          <srid>3089</srid>
+          <authid>EPSG:3089</authid>
+          <description>NAD83 / Kentucky Single Zone (ftUS)</description>
+          <projectionacronym>lcc</projectionacronym>
+          <ellipsoidacronym>GRS80</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="4" blueBand="3" greenBand="2" type="multibandcolor" redBand="1">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>5224723.11622999981045723</xmin>
+        <ymin>3814946.68477000016719103</ymin>
+        <xmax>5233308.11622999981045723</xmax>
+        <ymax>3828946.68477000016719103</ymax>
+      </extent>
+      <id>sbc_canopy_201620180327180012509</id>
+      <datasource>./sbc_canopy_2016.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>sbc_canopy_2016</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=lcc +lat_1=37.08333333333334 +lat_2=38.66666666666666 +lat_0=36.33333333333334 +lon_0=-85.75 +x_0=1500000 +y_0=999999.9998983998 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=us-ft +no_defs</proj4>
+          <srsid>1052</srsid>
+          <srid>3089</srid>
+          <authid>EPSG:3089</authid>
+          <description>NAD83 / Kentucky Single Zone (ftUS)</description>
+          <projectionacronym>lcc</projectionacronym>
+          <ellipsoidacronym>GRS80</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="4" blueBand="3" greenBand="2" type="multibandcolor" redBand="1">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>5224723.11623216141015291</xmin>
+        <ymin>3814946.684441227465868</ymin>
+        <xmax>5233308.11623215861618519</xmax>
+        <ymax>3828946.68444124469533563</ymax>
+      </extent>
+      <id>sbc_hillshade_270_5020180327174954752</id>
+      <datasource>./sbc_hillshade_270_50.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>sbc_hillshade_270_50</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=lcc +lat_1=37.08333333333334 +lat_2=38.66666666666666 +lat_0=36.33333333333334 +lon_0=-85.75 +x_0=1500000 +y_0=999999.9998983998 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=us-ft +no_defs</proj4>
+          <srsid>1052</srsid>
+          <srid>3089</srid>
+          <authid>EPSG:3089</authid>
+          <description>NAD83 / Kentucky Single Zone (ftUS)</description>
+          <projectionacronym>lcc</projectionacronym>
+          <ellipsoidacronym>GRS80</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="4" blueBand="3" greenBand="2" type="multibandcolor" redBand="1">
+          <rasterTransparency/>
         </rasterrenderer>
         <brightnesscontrast brightness="0" contrast="0"/>
         <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
@@ -1099,6 +1346,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -1124,7 +1372,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="2" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="id" index="0" name=""/>
         <alias field="name" index="1" name=""/>
@@ -1137,7 +1385,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="861971448">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
         <columns>
           <column width="-1" hidden="0" type="field" name="id"/>
           <column width="-1" hidden="0" type="field" name="name"/>
@@ -1149,10 +1397,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
@@ -1207,9 +1455,9 @@ def my_form_open(dialog, layer, feature):
     </Paths>
     <WMSServiceTitle type="QString"></WMSServiceTitle>
     <WFSLayers type="QStringList"/>
+    <WMSRestrictedLayers type="QStringList"/>
     <WMSContactMail type="QString"></WMSContactMail>
     <WMSRestrictedComposers type="QStringList"/>
-    <WMSRestrictedLayers type="QStringList"/>
     <PositionPrecision>
       <DecimalPlaces type="int">2</DecimalPlaces>
       <Automatic type="bool">true</Automatic>
@@ -1244,21 +1492,26 @@ def my_form_open(dialog, layer, feature):
       <DefaultSnapToleranceUnit type="int">2</DefaultSnapToleranceUnit>
       <LayerSnappingList type="QStringList">
         <value>aoi20180326213222562</value>
+        <value>trails20180326214054825</value>
       </LayerSnappingList>
       <LayerSnappingEnabledList type="QStringList">
+        <value>disabled</value>
         <value>disabled</value>
       </LayerSnappingEnabledList>
       <SnappingMode type="QString">current_layer</SnappingMode>
       <AvoidIntersectionsList type="QStringList"/>
       <LayerSnappingToleranceUnitList type="QStringList">
         <value>2</value>
+        <value>2</value>
       </LayerSnappingToleranceUnitList>
       <LayerSnapToList type="QStringList">
+        <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
       </LayerSnapToList>
       <DefaultSnapType type="QString">off</DefaultSnapType>
       <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
       <LayerSnappingToleranceList type="QStringList">
+        <value>0.000000</value>
         <value>0.000000</value>
       </LayerSnappingToleranceList>
     </Digitizing>
