@@ -20,9 +20,13 @@
 		}
 
 		section {
-			width: 960px;
+			/* width: 960px; can have only width */
 		 	width: 80%;
-			margin: 20px 10px auto; /*I didn't like the left margin so I decresed it*/
+			margin: 20px auto;
+			/* margin format is: top right bottom left OR top-bottom left-right
+			The above rule says put 20 pixels of space on top and bottom of section element and the auto centers it.
+			The below rule says make the bottom auto fit, which doesn't quite work */
+			/* margin: 20px 10px auto; I didn't like the left margin so I decresed it*/
 		}
 
 		h1 {
