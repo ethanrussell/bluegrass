@@ -26,3 +26,20 @@
   alter table
   	module_04.kentucky_pop_census_block
   add primary key(id);
+
+  /* Nice work! Another example: */
+
+select
+	pop10,
+	aland10,
+	pop10/((aland10/1e+6))::numeric as pop_per_sq_km, -- 1e+6 = 1,000,000 sq m in sq km
+	pop10/((aland10/2.59e+6))::numeric as pop_per_sq_mi, -- 2.59e+6 = 2,590,000 sq m in sq mi
+	geom,
+	id
+from
+	bg.census_blocks
+where
+	aland10 > 0
+order by
+	pop_per_sq_mi
+desc;

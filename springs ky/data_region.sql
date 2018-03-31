@@ -23,6 +23,17 @@ alter table
   ky_springs.springs_bluegrass
 add primary key (id);  -- end second statement
 
+/* Nice work getting just those counties! */
+
+select
+	*
+from
+	ky_springs.dow_groundwater_springs
+where
+"county" in ('Woodford','Scott','Mercer','Madison','Jessamine','Garrard','Franklin','Fayette','Clark','Bourbon','Anderson');
+
+-- another way to query out counties
+
 /**************************************************************************/
 
 /* Make hexagonal grid */

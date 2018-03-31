@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-
+<!-- Always staying one step ahead! We will eventually do a page like this for the final project -->
 <head>
 	<meta charset=utf-8 />
 	<title>Ethan Russell Maps</title>
@@ -20,9 +20,13 @@
 		}
 
 		section {
-			width: 960px;
+			/* width: 960px; can have only width */
 		 	width: 80%;
-			margin: 20px 10px auto; /*I didn't like the left margin so I decresed it*/
+			margin: 20px auto;
+			/* margin format is: top right bottom left OR top-bottom left-right
+			The above rule says put 20 pixels of space on top and bottom of section element and the auto centers it.
+			The below rule says make the bottom auto fit, which doesn't quite work */
+			/* margin: 20px 10px auto; I didn't like the left margin so I decresed it*/
 		}
 
 		h1 {
@@ -71,22 +75,22 @@
 
 	</style>
 </head>
-<h1>Ethan Russell Maps</h1>
+
 <body>
 	<section>
-
+<h1>Ethan Russell Maps</h1>
 		<!-- This is an HTML comment. Find the comments below and follow the instructions. -->
 		<div id='Ethan'>
-				<img src="IMG_20150704_132107152.jpg" alt="Ethan Russell"><class="max-image-width">
+				<img src="IMG_20150704_132107152.jpg" alt="Ethan Russell" class="max-image-width">
 		</div>
 
 		<h1>Map links</h1>
 
-<li>Kentucky Population: <a href="https://ethanrussell.github.io/bluegrass/Population/index.html">Link</a> </li>
-<li>Sally Brown Crutcher Park: <a href="https://ethanrussell.github.io/bluegrass/sally_brown/sally_brown_leaflet/leaflet.html">Link</a> </li>
-<li>Kentucky Springs: <a href="https://ethanrussell.github.io/bluegrass/springs ky/index.html">Link</a> </li>
-<li>Kentucky Waterways: <a href="https://ethanrussell.github.io/bluegrass/waterways/index.html">Link</a> </li>
-<li>Central Kentucky Waterways: <a href="https://ethanrussell.github.io/Central_Kentucky_Watershed/">Link</a> </li>
+<li>Kentucky Population: <a href="Population">Link</a> </li>
+<li>Sally Brown Crutcher Park: <a href="sally_brown/sally_brown_leaflet/leaflet.html">Link</a> </li>
+<li>Kentucky Springs: <a href="springs ky">Link</a> </li>
+<li>Kentucky Waterways: <a href="waterways">Link</a> </li>
+<li>Central Kentucky Waterways: <a href="https://ethanrussell.github.io/Central_Kentucky_Watershed/">Link</a> </li> <!-- cool map! -->
 		<!-- Add you information below -->
 		<h2>Authored by: Ethan Russell</h2>
 		<p>Join me on a journey of Cartography. Prepare to be immersed by high quality maps of the beautiful State of Kentucky.</p>
