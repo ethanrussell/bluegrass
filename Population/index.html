@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset=utf-8 />
+	<title>Bluegrass Population Density</title>
+	<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css" />
+	<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			background: #f5f5f5;
+			font-family: "Noto Sans", sans-serif;
+			color: #3d3d3d;
+		}
+
+		section {
+			width: 960px;
+		 	width: 80%;
+			margin: 20px 10px auto; /*I didn't like the left margin so I decresed it*/
+		}
+
+		h1 {
+			font-family: Lora, serif;
+			letter-spacing: .04em;
+		}
+
+		h2 {
+			font-family: Lora, serif;
+			letter-spacing: .04em;
+		}
+
+		p {
+			font-size: 1em;
+			line-height: 1.5em;
+		}
+
+		a {
+			color: #005daa;
+			font-weight: bold;
+			text-decoration: none;
+		}
+
+		a:hover {
+			text-decoration: underline;
+		}
+
+		ul {
+			padding-left: 20px;
+		}
+
+		li {
+			margin: 10px 0
+		}
+
+		#map {
+			width: 100%;
+			margin: 10px auto;
+			border: 2px solid #d3d3d3;
+		}
+/*Style from lab readme*/
+		.max-image-width {
+					width:100%;
+				}
+
+
+	</style>
+</head>
+
+<body>
+	<section>
+
+		<!-- This is an HTML comment. Find the comments below and follow the instructions. -->
+
+		<h1>Kentucky Region Bluegrass Population Density</h1>
+
+		<div id='map'>
+				<img src="kentucky_region_bluegrass_population_1200px.png" alt="Bluegrass Region Population Density" class="max-image-width">
+				<br> <!-- line break tag -->
+				<a href="kentucky_region_bluegrass_population_8000px.png">Link to high resolution map</a>
+		</div>
+
+		<!-- Gotta say it! This is some vivid color and maybe sets a negative tone for population patterns.
+		The analysis looks great, but maybe you could use a little less intense red color?
+		Areas without population have a strong contrast in your color scheme. Why not make them 0 pop density? -->
+
+		<!-- Add you information below -->
+		<h2>Authored by: Ethan Russell</h2>
+		<p>This map shows population density per square mile in the Bluegrass Reigon of Kentucky. Density is shown in the legend with a population density of zero being displyed in grey. Data was acquired from the U.S. Department of Commerce, U.S. Census Bureau, Geography Division, TIGER/Line Shapefile.</p>
+
+		<ul>
+			<li>See my projects on GitHub: <a href="https://github.com/ethanrussell">Ethan Russell Mapping</a> </li>
+			<li>Follow me on Twitter, Instagram, etc.: <a href="https://twitter.com/ethanr456">@EthanR456</a> </li>
+
+		</ul>
+	</section>
+
+</body>
+
+</html>
