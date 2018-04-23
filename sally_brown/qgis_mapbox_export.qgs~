@@ -256,7 +256,7 @@
       </customproperties>
     </Composition>
   </Composer>
-  <Composer title="basemap_2" visible="1">
+  <Composer title="basemap_2" visible="0">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{4ffabaf3-5b1c-4aee-86e7-247d305c820a}" alignmentSnap="1" printResolution="300" paperWidth="183.31" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="304.8" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -326,7 +326,7 @@
           <annotationFontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
         </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="1.77636e-15" page="1" id="" lastValidViewScaleFactor="1.78908" positionMode="0" positionLock="false" x="0" y="1.77636e-15" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="183.314" outlineWidth="0.3" excludeFromExports="0" uuid="{4ffabaf3-5b1c-4aee-86e7-247d305c820a}" height="304.8" itemRotation="0" frame="false" pagex="0">
+        <ComposerItem pagey="1.77636e-15" page="1" id="" lastValidViewScaleFactor="1.78908" positionMode="0" positionLock="true" x="0" y="1.77636e-15" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="183.314" outlineWidth="0.3" excludeFromExports="0" uuid="{4ffabaf3-5b1c-4aee-86e7-247d305c820a}" height="304.8" itemRotation="0" frame="false" pagex="0">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="205" blue="205" green="205"/>
           <customproperties/>
